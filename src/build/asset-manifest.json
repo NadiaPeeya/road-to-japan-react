@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.791cff2b.chunk.css",
+    "main.js": "/static/js/main.3dcf68de.chunk.js",
+    "main.js.map": "/static/js/main.3dcf68de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e31ce088.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e31ce088.js.map",
+    "static/js/2.926c716f.chunk.js": "/static/js/2.926c716f.chunk.js",
+    "static/js/2.926c716f.chunk.js.map": "/static/js/2.926c716f.chunk.js.map",
+    "static/js/3.acafb04a.chunk.js": "/static/js/3.acafb04a.chunk.js",
+    "static/js/3.acafb04a.chunk.js.map": "/static/js/3.acafb04a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.791cff2b.chunk.css.map": "/static/css/main.791cff2b.chunk.css.map",
+    "static/js/2.926c716f.chunk.js.LICENSE.txt": "/static/js/2.926c716f.chunk.js.LICENSE.txt",
+    "static/media/japan.89305c64.png": "/static/media/japan.89305c64.png",
+    "static/media/japan3.bc80f783.png": "/static/media/japan3.bc80f783.png",
+    "static/media/japan4.abbfc93d.png": "/static/media/japan4.abbfc93d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e31ce088.js",
+    "static/js/2.926c716f.chunk.js",
+    "static/css/main.791cff2b.chunk.css",
+    "static/js/main.3dcf68de.chunk.js"
+  ]
+}
